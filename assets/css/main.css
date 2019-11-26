@@ -2085,7 +2085,7 @@ input, select, textarea {
 				position: absolute;
 				text-align: center;
 				text-decoration: none;
-				caption: 'Image from Unsplash.'
+				caption: 'Image from Unsplash.';
 				top: 50%;
 				white-space: nowrap;
 			}
