@@ -2811,8 +2811,21 @@ input, select, textarea {
 			.poptrox-popup .loader:before {
 				content: '\f1ce';
 			}
+			.poptrox-popup .caption {
+				background: #fff;
+				bottom: 0;
+				cursor: default;
+				font-size: 0.9em;
+				height: 3em;
+				left: 0;
+				line-height: 2.8em;
+				position: absolute;
+				text-align: center;
+				content: 'Image From Unsplash'
+				width: 100%;
+				z-index: 1;
+			}
 
-	
 		.poptrox-popup .nav-next,
 		.poptrox-popup .nav-previous {
 			text-decoration: none;
